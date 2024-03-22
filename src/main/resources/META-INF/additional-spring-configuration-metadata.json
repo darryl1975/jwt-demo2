@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "token.signing.key",
+    "type": "java.lang.String",
+    "description": "A description for 'token.signing.key'"
+  },
+  {
+    "name": "token.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'token.app.jwtExpirationMs'"
+  },
+  {
+    "name": "token.app.jwtCookieName",
+    "type": "java.lang.String",
+    "description": "A description for 'token.app.jwtCookieName'"
+  }
+]}
